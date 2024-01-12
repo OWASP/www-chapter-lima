@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Lima
 tags: OWASPPeru
 meetup-group: OWASP-Lima-Meetup-Group
+country: Peru
 level: 4
 
 region: South America
