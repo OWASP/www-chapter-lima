@@ -1,0 +1,28 @@
+leaders:
+  - name: John Vargas
+    email: john.vargas@owasp.org
+    github: JohnVargas
+  - name: Fernando Flores
+    email: fernando.flores@owasp.org
+    github: fernandofloreslima
+  - name: Carlos Ganoza
+    email: carlos.ganoza@owasp.org
+    github: drneox
+location:
+  country: Peru
+  country_code: PE
+  region: Lima
+  city: Lima
+  latitude: -12.0621065
+  longitude: -77.0365256
+meetup_group: OWASP-Lima-Meetup-Group
+name: OWASP Lima
+repositories:
+  - name: www-chapter-lima
+    url: https://github.com/OWASP/www-chapter-lima
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASPPeru
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-lima
