@@ -23,6 +23,9 @@ Puede enviar una idea en cualquier momento en el siguiente enlace: [OWASP Lima C
 
 Para actualizaciones, eventos, membresía; por favor visite nuestra página de Meetup: [Meetup de OWASP Lima](https://www.meetup.com/es-ES/OWASP-Lima-Meetup-Group)
 
+### OWASP Village Ekoparty 2025
+
+<img width="1280" height="720" alt="image" src="assets/images/OWASP_Village.png" />
 ### OWASP Chapter Meeting  2025
 
 Lunes, 15 de Diciembre  - 7:00 PM – 9:00 PM
