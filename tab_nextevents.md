@@ -37,6 +37,13 @@ Reunión mensual de OWASP Lima Peru
 <img width="1003" height="567" alt="image" src="https://github.com/user-attachments/assets/33478e7c-77f7-44c3-bef2-e3e3c337f5c0" />
 
 
+Lunes, 29 de Diciembre  - 7:00 PM – 8:00 PM
+Reunión mensual de OWASP Lima Peru
+
+<img width="1003" height="567" alt="image" src="https://github.com/user-attachments/assets/33478e7c-77f7-44c3-bef2-e3e3c337f5c0" />
+
+
+
   
 {% include chapter_events.html group=page.meetup-group %}
 
