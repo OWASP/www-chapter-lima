@@ -25,21 +25,21 @@ Para actualizaciones, eventos, membresía; por favor visite nuestra página de M
 
 ### OWASP Village Ekoparty 2025
 
-<img width="1280" height="720" alt="image" src="assets/images/OWASP_Village.png" />
+<img src="assets/images/OWASP_Village.png" />
 ### OWASP Chapter Meeting  2025
 
 Lunes, 15 de Diciembre  - 7:00 PM – 9:00 PM
 Reunión mensual de OWASP Lima Peru
 Titulo: Amenazas y Contramedidas en el SDLC para IA
 
-<img width="1280" height="720" alt="image" src="assets/images/meet1.png" />
+<img src="assets/images/meet1.png" />
 
 
 Lunes, 22 de Diciembre  - 8:00 PM – 10:00 PM
 Reunión mensual de OWASP Lima Peru
 Titulo: Evolución Estratégica OWASP TOP 10 - 2025
 
-<img width="1280" height="720" alt="image" src="assets/images/meet2.png" />
+<img src="assets/images/meet2.png" />
 
 
 Lunes, 29 de Diciembre  - 7:00 PM – 8:00 PM
